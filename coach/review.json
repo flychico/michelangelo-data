@@ -1,36 +1,39 @@
 {
-  "id": "2026-10-18",
-  "date": "Sun Oct 18",
-  "grade": "D",
-  "title": "Week closes at 2 of 5 sessions with no legs for 15 days, and the one full food day still came in 60 g short on protein.",
-  "summary": "Week of Oct 12-18 is final: 2 of 5 sessions (Pull · Muscle Oct 12, 51 min; Upper · Strength Oct 17, 70 min). Prior week: 1 of 5. Last lower-body session is still Oct 3 (17 min); Lower · Strength last done Oct 2. That's 15 days and 4 upper sessions without a squat.\nNothing new has been trained since yesterday's review, so the lift numbers stand: bench 185x8 (e1RM ~234, best ~241 on Oct 10), barbell row down to 115x10 (~153) from 145x8 (~184), DB press 20x10 from 27.5x12. Plan changes from yesterday (Smith bench removed, Pull finisher added) are untested. No new plan changes this week: changing an untested plan is guessing.\nFood: you finished logging Oct 17, credit for that. Total 906 kcal and 108 g protein vs a ~170 g target and roughly 2,400+ kcal maintenance. That's about a third of what you need to build muscle. The casein shake is logged at 7 kcal for 25 g protein, which is wrong (real value ~110-120 kcal); fix the food entry. Still 1 of 7 days logged. Fruit/veg: not logged.\nWeight: 170.0 (Oct 17), 166.5 (Oct 10), 170.0 (Sep 21). Three readings in four weeks, no trend. Watch: only Oct 16 synced (4,078 steps, RHR 70, HRV 44, VO2 max 33). No sleep data. No photos.",
+  "id": "2026-10-25",
+  "date": "Sun Oct 25",
+  "grade": "F",
+  "title": "Zero sessions this week: your last workout was Oct 17, and your last leg session was Oct 3.",
+  "summary": "Week of Oct 19-25: 0 of 5 sessions. The three weeks before that went 4, 1, 2. Your last logged workout is Upper · Strength on Oct 17 (70 min). Lower · Strength has been next in the app since Oct 2, and the last lower-body work was 17 minutes on Oct 3. That's 22 days without a squat.\nNo new lifts to judge. The last numbers stand: bench 185x8 (e1RM ~234), barbell row 115x10 (~153, down from 145x8), DB press 20x10 (down from 27.5x12). Nothing in last week's plan has been run, so the plan stays as it is.\nFood: 0 of 7 days logged this week. Oct 18 was your best day so far: 1,293 kcal, 150 g protein, 6.3 fruit/veg servings. Then logging stopped. On Oct 22 you changed your targets to 1,200 kcal and 140 g protein. That's too low for a 170 lb man training 5 days a week, and 140 g is under 0.9 g/lb. I've reset them (see Changes).\nBody: no weigh-ins this week; last reading is 170.0 on Oct 17. The Watch synced only Oct 19: 6,774 steps, 321 min sleep, RHR 73, HRV 56. VO2 max last read 32.7 (Oct 18), down from 33.3. Still no progress photos.",
   "wins": [
-    "Oct 17 food fully logged: 4 items, 70 g protein from one chicken meal. That's the template, now repeat it 3x a day.",
-    "Bench still holding 185x8 after a 70-min session.",
-    "Yesterday's plan changes were accepted, not undone."
+    "Oct 18 nutrition was solid: 150 g protein and 6.3 fruit/veg servings in a fully logged day.",
+    "You fixed the casein shake entry (now 120 kcal, was logged at 7).",
+    "Oct 17 hit 18,333 steps and 432 min sleep. You can do it when you decide to."
   ],
   "misses": [
-    "Sessions: 2/5 this week, 1/5 last week. Two weeks running under half.",
-    "Legs: 0 lower sessions in 15 days (last Oct 3, 17 min, 5 sets). Lower · Strength is next in the app and not done.",
-    "Protein: 108 g on the only logged day vs ~170 g target (-62 g).",
-    "Calories: 906 kcal on the only logged day. Far below maintenance; you cannot build muscle on that.",
-    "Food logging: 1 of 7 days. Fruit/veg: not logged.",
-    "Logging error: casein shake entered at 7 kcal for 25 g protein.",
-    "Weigh-ins: 1 this week (need 3+).",
-    "Watch: 1 of 7 days synced; steps 4,078 vs 7,500 standard; sleep not logged.",
-    "Row regressed 145x8 to 115x10; DB press regressed 27.5x12 to 20x10 (carried over, not retested).",
-    "Progress photos: none on file."
+    "Sessions: 0/5 this week. Last 4 weeks: 4, 1, 2, 0. Last workout Oct 17.",
+    "Legs: 22 days without a lower-body session (last Oct 3, 17 min). Lower · Strength not done since Oct 2.",
+    "Food logging: 0 of 7 days. Protein, calories and fruit/veg: not logged.",
+    "Targets set to 1,200 kcal / 140 g protein: about half of maintenance, protein at 0.82 g/lb.",
+    "Weigh-ins: 0 this week (asked for 3).",
+    "Watch: 1 of 7 days synced. Oct 19: 6,774 steps vs 7,500 standard, 321 min sleep vs 420.",
+    "Progress photos: none, third week asking.",
+    "Every focus item from Oct 18 missed: no Monday leg day, no 5 sessions, no food logs, no weigh-ins, no photos."
   ],
   "changes": [
-    "No program changes. Yesterday's two changes (Smith bench removed from Upper · Strength, 10-15 min stair-climber added to Pull · Muscle) haven't been run yet. You earn the next adjustment by doing this plan.",
-    "Targets and standards unchanged: protein ~170 g (1 g/lb), calories at app default. With one food day logged there's no basis to move them."
+    "Targets reset from 1,200 kcal / 140 g to 1,900 kcal / 155 g protein. If you want to lean out, fine: 1,900 is a moderate deficit (~400-500 below maintenance) that still lets you train hard and keep muscle. At 1,200 you'll lose strength and quit the plan again. 155 g is 0.91 g/lb, the floor for building muscle in a deficit.",
+    "No program changes. None of the last two weeks' plan has been run. Changing an untested plan is guessing; the problem is attendance, not the program.",
+    "Kept 5 days. You've missed more than half of your sessions three weeks running, and that's on record. If 5 days really doesn't fit your life, tell me and we'll go to 4. Until then, the target is 5."
   ],
   "focus": [
-    "Monday: Lower · Strength. Squat 4x3-5 starting at 135 lb, RDL 3x5-8 at 135. No upper session until it's logged.",
-    "Legs · Muscle within 3 days of that. 5 sessions total by Sat Oct 24, 60 min each.",
-    "Eat 4 meals a day like Oct 17's chicken and rice meal: 150 g protein minimum, ~170 g goal, and log every day. Add 2 fruit/veg servings per meal.",
-    "Weigh in Mon, Wed, Fri mornings; wear the Watch to bed and open the app daily so it syncs.",
-    "Take front, side and back photos Monday morning before training."
+    "Monday Oct 26: Lower · Strength. Squat 4x3-5 at 135, RDL 3x5-8 at 135, then the rest of the list. Log it before you leave the gym. No upper session until it's done.",
+    "Floor this week: 4 sessions minimum, 5 is the target, with Legs · Muscle by Thursday. Showing up for 45 minutes beats skipping a 60-minute session.",
+    "Log food every day. Hit 155 g protein: Oct 18 was the template (chicken, eggs, cottage cheese, casein). Land near 1,900 kcal, not 1,200.",
+    "Weigh in Mon, Wed, Fri mornings. Wear the Watch to bed and open the app daily so it syncs.",
+    "Photos Monday morning before training: front, side, back, same spot and light. No more weeks without a baseline."
   ],
-  "photos": "No progress photos on file, second week in a row. Take front, side and back Monday morning, same spot and light; without a baseline there's nothing to compare."
+  "photos": "No progress photos on file, third week in a row. Take front, side and back Monday morning, same spot and light, or there's nothing to measure your recomp against.",
+  "targets": {
+    "protein": 155,
+    "cal": 1900
+  }
 }
